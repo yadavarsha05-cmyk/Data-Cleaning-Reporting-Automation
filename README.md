@@ -1,5 +1,5 @@
 # Data-Cleaning-Reporting-Automation
-This repository contains a projects completed during the Thiranex internship.
+This repository contains a project completed during the Thiranex internship.
 
 # Data Cleaning & Reporting Automation Pipeline
 
